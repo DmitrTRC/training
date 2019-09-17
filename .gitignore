@@ -1,0 +1,8 @@
+dist/
+.idea/
+__pycache__/
+venv/
+ghub
+ghub.pub
+
+
